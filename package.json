@@ -1,0 +1,30 @@
+{
+  "name": "node-exif",
+  "version": "0.0.1",
+  "description": "exifjs in node-env",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hccde/node-exif.git"
+  },
+  "keywords": [
+    "exif",
+    "node-exif",
+    "jpeg",
+    "image",
+    "exifjs",
+    "node-runtime"
+  ],
+  "author": "admos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hccde/node-exif/issues"
+  },
+  "homepage": "https://github.com/hccde/node-exif#readme",
+  "dependencies": {
+    "atob": "^2.1.1"
+  }
+}
