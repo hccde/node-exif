@@ -1,12 +1,12 @@
 # node-exif
 get Exif data from JPEG
 
-#clone 
+# clone 
 git clone git@github.com:hccde/node-exif.git
 
-#install 
+# install 
 npm install
 
-#run demo
+# run demo
 node index.js
 
